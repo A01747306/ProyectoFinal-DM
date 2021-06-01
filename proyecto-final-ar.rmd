@@ -376,7 +376,7 @@ Graba y publica un video (puede ser un video publicado de forma privada en YouTu
 - Diferencia entre los conceptos de transacciones y reglas.
 - Estrategia seguida para descubrir las reglas de interés en el dataset MSSD de este proyecto.
 - Interpretación de la primera regla listada en el chunk anterior con el código `inspect(head(sort(rules, by = "lift")))` aclarando qué significan los datos listados en lhs, rhs y la interpretación de todas sus métricas.
-- Provee el enlace al video aquí: **NOTE-30**
+- Provee el enlace al video aquí: **NOTE-30** https://www.youtube.com/watch?v=xJP5hCfaAOQ
 
 ## Entrega del proyecto final
 
